@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><codeTemplate version="4.3.0">
+  <id>8a3850b7-c772-49e1-9354-8f273cdaefba</id>
+  <name>getPID3IdentifierByNamespaceID</name>
+  <revision>1</revision>
+  <lastModified>
+    <time>1686070400154</time>
+    <timezone>Asia/Muscat</timezone>
+  </lastModified>
+  <contextSet>
+    <delegate>
+      <contextType>DESTINATION_DISPATCHER</contextType>
+      <contextType>SOURCE_RECEIVER</contextType>
+      <contextType>SOURCE_FILTER_TRANSFORMER</contextType>
+      <contextType>DESTINATION_RESPONSE_TRANSFORMER</contextType>
+      <contextType>DESTINATION_FILTER_TRANSFORMER</contextType>
+    </delegate>
+  </contextSet>
+  <properties class="com.mirth.connect.model.codetemplates.BasicCodeTemplateProperties">
+    <type>FUNCTION</type>
+    <code msync-fileref="getPID3IdentifierByNamespaceID.js"/>
+  </properties>
+</codeTemplate>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><codeTemplate version="4.3.0">
+  <id>41cf5d30-5249-4238-ba4d-20f9b1384aaf</id>
+  <name>validatePhoneNumber</name>
+  <revision>1</revision>
+  <lastModified>
+    <time>1686070400201</time>
+    <timezone>Asia/Muscat</timezone>
+  </lastModified>
+  <contextSet>
+    <delegate>
+      <contextType>DESTINATION_DISPATCHER</contextType>
+      <contextType>SOURCE_RECEIVER</contextType>
+      <contextType>SOURCE_FILTER_TRANSFORMER</contextType>
+      <contextType>DESTINATION_RESPONSE_TRANSFORMER</contextType>
+      <contextType>DESTINATION_FILTER_TRANSFORMER</contextType>
+    </delegate>
+  </contextSet>
+  <properties class="com.mirth.connect.model.codetemplates.BasicCodeTemplateProperties">
+    <type>FUNCTION</type>
+    <code msync-fileref="validatePhoneNumber.js"/>
+  </properties>
+</codeTemplate>

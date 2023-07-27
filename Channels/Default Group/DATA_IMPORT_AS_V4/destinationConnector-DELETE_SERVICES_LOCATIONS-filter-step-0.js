@@ -1,0 +1,2 @@
+//if ($('IMPORT_DATA')== 'MEDICATION_IMPORT' || $('IMPORT_DATA')== 'EQUIPMENT_IMPORT' ) return false;
+return ($('IMPORT_DATA') == 'LOCATIONS_DELETE' || $('IMPORT_DATA') == 'SERVICES_DELETE');

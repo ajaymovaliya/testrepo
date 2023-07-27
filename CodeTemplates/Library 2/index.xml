@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><codeTemplateLibrary version="4.3.0">
+  <id>8eae3236-3da1-488e-9cbd-ce2fb398f95e</id>
+  <name>Library 2</name>
+  <revision>1</revision>
+  <lastModified>
+    <time>1686070400074</time>
+    <timezone>Asia/Muscat</timezone>
+  </lastModified>
+  <description>This library was added upon migration to version 3.3.0. It includes all pre-existing
+code templates, and is set to be included on all pre-existing and new channels.
+
+You should create your own new libraries and assign code templates to them as you
+see fit. You should also link libraries to specific channels, so that you're not
+necessarily including all code templates on all channels all the time.</description>
+  <includeNewChannels>true</includeNewChannels>
+  <enabledChannelIds>
+    <string>fff5e89a-36cf-45b9-9a3d-e0bca4160901</string>
+    <string>5bd9c986-cc94-4062-be72-bba07efe27d4</string>
+    <string>c78f405c-3dc9-4051-920e-61e53c0e85ca</string>
+    <string>3a799fbd-2230-4b55-b0c9-e988ab49ebcf</string>
+    <string>7bd69110-312a-4718-9d2b-71a932be00fe</string>
+    <string>cd8f182f-40c4-4de8-9c08-86a4106715b1</string>
+    <string>845ae5a2-84c3-4b04-a58d-3e875d730c4d</string>
+    <string>073fb539-3456-404b-a511-9a495f62e53e</string>
+    <string>f8578a58-965d-4397-8c97-aea4f6a93fba</string>
+    <string>0e41576e-04b5-410d-8306-5e1558dbb7a2</string>
+    <string>2d2344b6-4682-435e-a42f-43a8a46acb33</string>
+    <string>e31c9276-369d-4988-828b-fd455f506abd</string>
+    <string>6c26453d-ffdd-4eea-84da-e695f824dfb6</string>
+    <string>e00c1ca4-a5a2-47ca-af7b-90d6f23153d3</string>
+    <string>4264fed3-9b46-4868-a1bf-92c6c641aba2</string>
+  </enabledChannelIds>
+  <disabledChannelIds/>
+  <codeTemplates/>
+</codeTemplateLibrary>

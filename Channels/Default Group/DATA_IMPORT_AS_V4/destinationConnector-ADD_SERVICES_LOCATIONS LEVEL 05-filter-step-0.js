@@ -1,0 +1,1 @@
+return ($('LOC_SER_5') && $('LOC_SER_5') !== null && $('RESPONSE_DQ_L4_ID') > 1 && ($('IMPORT_DATA')== 'LOCATIONS_ADD' || $('IMPORT_DATA')== 'SERVICES_ADD' ));
